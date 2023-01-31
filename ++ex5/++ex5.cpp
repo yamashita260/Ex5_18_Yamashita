@@ -20,6 +20,5 @@ int main() {
 			cout << "宅急便では送れません" << endl;
 		}
 	}
-
 	return 0;
 }
